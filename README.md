@@ -1,2 +1,2 @@
 # Casino
-casino-app
+Jogo de dados
